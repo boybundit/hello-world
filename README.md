@@ -1,8 +1,9 @@
 # hello-world
-Hello World Project
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com) `##`
 
-This is a test.
-===============
-## Heading2
-- Bullet 1
-- Bullet 2
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
